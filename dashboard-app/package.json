@@ -2,6 +2,9 @@
   "name": "dashboard-app",
   "version": "0.1.0",
   "private": true,
+  "scripts": {
+    "start": "react-scripts start"
+  },
   "dependencies": {
     "@ant-design/compatible": "^1.0.4",
     "@ant-design/icons": "^4.2.1",
